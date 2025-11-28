@@ -6,5 +6,5 @@ Play [online now](https://za3k.github.io/guess-who) with a friend. You will each
 
 It is based on the game of the same name by [Hasbro](https://shop.hasbro.com/).
 
-Faces are taken from [[thispersondoesnotexist.com]]
+Faces are taken from [thispersondoesnotexist.com]
 
